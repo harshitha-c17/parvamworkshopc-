@@ -43,3 +43,4 @@ int main(){
     childl.study();//defined in child
     return 0;
 }
+
